@@ -38,6 +38,11 @@
 - Taught others how to teach music
 - Started a free piano tutoring service
 
+### Civic Action Officer | Distributive Education Clubs of America @ Martin Luther King High School
+- Organized fundraisers and street clean-ups
+- Worked with the City of Riverside and March of Dimes
+- Created and managed a budget, timeline, and workflow manager
+
 ## Work History
 ### SYN100 SYNematic Films Tutor | Seventh College @ University of California, San Diego
 - Editing, revising, and giving constructive feedback on student work
@@ -92,37 +97,37 @@
 - Helped students express emotional turmoil in a healthy and creative way
 
 ## Projects
-### Alcohol Sensitivity & Alcohol Dehydrogenase Catalytic Activity in Fruit Flies
+### *Alcohol Sensitivity & Alcohol Dehydrogenase Catalytic Activity in Fruit Flies*
 - Studied alcohol sensitivity in different strains of *Drosphila melanogaster*
 - Ran an *in vivo* Ethanol Mobility Behavior Assay and *in vitro* Alcohol Dehydrogenase Activity Assay
 - Wrote a lab report on the process and findings
 
-### The Effect of Major Depression and Outlook on Meaning of Life on PTSD
+### *The Effect of Major Depression and Outlook on Meaning of Life on PTSD*
 - Studied the relationship between Major Depression, beliefs about the meaning of life, and PTSD in veterans through the Veteran Affairs San Diego Healthcare System
 - Ran statistical analyses through Jamovi
 - Utilized the PHQ-9, MLQ, and PCL-S to assess the mental state of veteran participants
 
-### Deontological vs Utilitarian Judgment & Gender
+### *Deontological vs Utilitarian Judgment & Gender*
 - Studied a variation of the trolley problem through literature search
 - Ran statistical analyses through Jamovi
 - Presented a paper to the Department of Psychology at the University of California, San Diego with a poster
 
-### The Self-Referential Effect on Memory
+### *The Self-Referential Effect on Memory*
 - Studied the Self-Referential Effect through experimentation conducted on undergraduate students
 - Conducted a literature search on the Self-Referential Effect and Other-Referential conditions
 - Ran statistical analyses using R for a paper
 
-### Causes of Homelessness in San Diego
+### *Causes of Homelessness in San Diego*
 - Filmed and edited an informational documentary video on the homelessness crisis in San Diego and its connection to the climate crisis and COVID-19
 - Interviewed homeless shelter administration, religious organizations, and the homeless
 - Presented to the Seventh College Synthesis Program
 
-### Addiction & Probability of Relapse
+### *Addiction & Probability of Relapse*
 - Filmed and edited an informational documentary video with interviews
 - Researched accessibility in video education in clinical psychology education
 - Worked with subjects with experience struggling with substance abuse
 
-### The Library
+### *The Library*
 - Helped organize a community project to create a video game over the course of one year
 - Advised a team of voice actors
 - Assisted in the creative writing of character events
@@ -132,17 +137,17 @@
 - Created a sample game in 8 hours
 - Worked with students on level design, character design, and creative writing in video games
 
-### A Computational System to Support Fully Automated Mark-Recapture Studies of Ants
+### *A Computational System to Support Fully Automated Mark-Recapture Studies of Ants*
 - Published in CSCI Las Vegas with the help of Dr. Eamonn Keogh's lab @ University of Riverside, California
 - Coded a program in MATLAB to trigger an ant capturing device when detecting a color-marked *Linepithema humile*
 - Collected *Linepithema humile*, ran experiments in a terrarium built with Dr. Eamonn Keogh, and took photos for documentation
 
-### The Identification of Potentially Malarial Anopheles Mosquitoes Using Machine Learning
+### *The Identification of Potentially Malarial Anopheles Mosquitoes Using Machine Learning*
 - Completed with the help of Dr. Eamonn Keogh's lab @ University of Riverside, California
 - Presented findings at the University of Califoria, Riverside and University of Southern California
 - Coded a program in MATLAB to statistically analyze patterns in malarial mosquito wingbeat frequencies and built a physical selective mosquito capturing device with Dr. Eamonn Keogh
 
-### Music Measure Theory
+### *Music Measure Theory*
 - Explored the relationships between the physics of sound, music, and the psychological perception of dissonance and consonance
 - Presented findings to multiple professors from the University of California, Riverside
 - Created a poster and paper to supplement information presentation
@@ -155,7 +160,8 @@
 - 1st Place Computer Science Division for "The Identification of Potentially Malarial Anopheles Mosquitoes Using Machine Learning" @ Riverside County Science & Engineering Fair
 - 1st Place at MIT Science Olympiad National Invitationals for Codebusters (Cryptology) and Cybersecurity
 - 3rd Place at MIT Science Olympiad National Invitationals for Game On (Game Design)
-
+- 1st Place at State Southern California Junior Bach Festival for Keyboard French Suites
+- Earned Certificate of Merit Keyboard Level 10 Completion + Panel with High Honors
 
 
 
