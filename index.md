@@ -39,22 +39,22 @@
 - Started a free piano tutoring service
 
 ## Work History
-## SYN100 SYNematic Films Tutor | Seventh College @ University of California, San Diego
+### SYN100 SYNematic Films Tutor | Seventh College @ University of California, San Diego
 - Editing, revising, and giving constructive feedback on student work
 - Mediating quality of student discussion, group work, and academic integrity
 - Assisting with filmmaking and creative processes
 
-## Dishwasher | Regents Pizzeria
+### Dishwasher | Regents Pizzeria
 - Fast-paced and physically demanding environment
 - Communication and translation in a majority Spanish-speaking environment
 - Solo work and teamwork
 
-## Customer Service | Helen Beauty Supply & Salon
+### Customer Service | Helen Beauty Supply & Salon
 - Navigated multiple high-risk scenarios
 - Kept stock and inventory
 - Made sales and conducted customer service in English, Spanish, and Korean
 
-## Internship History
+### Internship History
 ### Lab Intern | Sexual Wellness & Gender Lab @ University of California, San Diego
 - Collect and synthesize modern research on sexual psychology studies
 - Organize data in the cloud
