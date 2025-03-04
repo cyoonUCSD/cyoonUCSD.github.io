@@ -10,7 +10,7 @@
 - Martin Luther King High School 
 (High School Diploma, 4.8 GPA) 
 - University of California, San Diego 
-(In Progress, Clinical Psychology)
+(Psychology B.S. with a Specialization in Clinical Psychology, In Progress)
 
 ## Leadership Positions
 ### Vice President | Video Game Development Club @ UC San Diego
@@ -66,7 +66,7 @@
 - NSF Award in Integrated Computational Entomology (NICE)
 
 ## Volunteering History
-### UGIA PSYC124 | University of California, San Diego
+### UGIA PSYC124 | Department of Psychology @ University of California, San Diego
 - Editing and revising documents, assignments, and exams
 - Upholding quality of student discussion, work, and academic integrity
 - Tutoring students with questions on course content and answering questions on course structure
@@ -90,6 +90,62 @@
 - Taught piano to financially struggling high school students
 - Taught through Zoom during COVID-19 pandemic
 - Helped students express emotional turmoil in a healthy and creative way
+
+## Projects
+### Alcohol Sensitivity & Alcohol Dehydrogenase Catalytic Activity in Fruit Flies
+- Studied alcohol sensitivity in different strains of *Drosphila melanogaster*
+- Ran an *in vivo* Ethanol Mobility Behavior Assay and *in vitro* Alcohol Dehydrogenase Activity Assay
+- Wrote a lab report on the process and findings
+
+### The Effect of Major Depression and Outlook on Meaning of Life on PTSD
+- Studied the relationship between Major Depression, beliefs about the meaning of life, and PTSD in veterans through the Veteran Affairs San Diego Healthcare System
+- Ran statistical analyses through Jamovi
+- Utilized the PHQ-9, MLQ, and PCL-S to assess the mental state of veteran participants
+
+### Deontological vs Utilitarian Judgment & Gender
+- Studied a variation of the trolley problem through literature search
+- Ran statistical analyses through Jamovi
+- Presented a paper to the Department of Psychology at the University of California, San Diego with a poster
+
+### The Self-Referential Effect on Memory
+- Studied the Self-Referential Effect through experimentation conducted on undergraduate students
+- Conducted a literature search on the Self-Referential Effect and Other-Referential conditions
+- Ran statistical analyses using R for a paper
+
+### Causes of Homelessness in San Diego
+- Filmed and edited an informational documentary video on the homelessness crisis in San Diego and its connection to the climate crisis and COVID-19
+- Interviewed homeless shelter administration, religious organizations, and the homeless
+- Presented to the Seventh College Synthesis Program
+
+### Addiction & Probability of Relapse
+- Filmed and edited an informational documentary video with interviews
+- Researched accessibility in video education in clinical psychology education
+- Worked with subjects with experience struggling with substance abuse
+
+### The Library
+- Helped organize a community project to create a video game over the course of one year
+- Advised a team of voice actors
+- Assisted in the creative writing of character events
+ 
+### RPG Maker Workshop Series
+- Taught RPG Maker VX Ace to college students of all skill levels and majors
+- Created a sample game in 8 hours
+- Worked with students on level design, character design, and creative writing in video games
+
+### A Computational System to Support Fully Automated Mark-Recapture Studies of Ants
+- Published in CSCI Las Vegas with the help of Dr. Eamonn Keogh's lab @ University of Riverside, California
+- Coded a program in MATLAB to trigger an ant capturing device when detecting a color-marked *Linepithema humile*
+- Collected *Linepithema humile*, ran experiments in a terrarium built with Dr. Eamonn Keogh, and took photos for documentation
+
+### The Identification of Potentially Malarial Anopheles Mosquitoes Using Machine Learning
+- Completed with the help of Dr. Eamonn Keogh's lab @ University of Riverside, California
+- Presented findings at the University of Califoria, Riverside and University of Southern California
+- Coded a program in MATLAB to statistically analyze patterns in malarial mosquito wingbeat frequencies and built a physical selective mosquito capturing device with Dr. Eamonn Keogh
+
+### Music Measure Theory
+- Explored the relationships between the physics of sound, music, and the psychological perception of dissonance and consonance
+- Presented findings to multiple professors from the University of California, Riverside
+- Created a poster and paper to supplement information presentation
 
 ## Accomplishments
 - Published "A Computational System to Support Fully Automated Mark-Recapture Studies of Ants" at 2019 International Conference on Computational Science and Computational Intelligence (CSCI)
