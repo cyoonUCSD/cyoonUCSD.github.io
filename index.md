@@ -54,7 +54,7 @@
 - Kept stock and inventory
 - Made sales and conducted customer service in English, Spanish, and Korean
 
-### Internship History
+## Internship History
 ### Lab Intern | Sexual Wellness & Gender Lab @ University of California, San Diego
 - Collect and synthesize modern research on sexual psychology studies
 - Organize data in the cloud
