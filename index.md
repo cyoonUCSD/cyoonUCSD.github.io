@@ -1,16 +1,18 @@
 # Carey Yoon
 
 ## Skills
-- Group & Individual Instruction
-- Proficient in English, Spanish, and Korean
-- Proficient in Java, Python, C++, C#,  Visual Basic, MATLAB, R, Jamovi
 - Research Paper Authoring
+- Group & Individual Instruction
+- Event Planning & Administrative Communication
+- Proficient in English, Korean, and Spanish
+- Proficient in Java, Python, C++, C#,  Visual Basic, MATLAB, R, Jamovi, SPSS
 
 ## Education
 - Martin Luther King High School 
 (High School Diploma, 4.8 GPA) 
 - University of California, San Diego 
-(Psychology B.S. with a Specialization in Clinical Psychology, In Progress)
+(Psychology B.S. with a Specialization in Clinical Psychology)
+(Academic Prerequisites for Medical School Completed)
 
 ## Leadership Positions
 ### Vice President | Video Game Development Club @ UC San Diego
