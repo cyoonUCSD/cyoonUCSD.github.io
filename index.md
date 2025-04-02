@@ -104,15 +104,15 @@
 - Ran an *in vivo* Ethanol Mobility Behavior Assay and *in vitro* Alcohol Dehydrogenase Activity Assay
 - Wrote a lab report on the process and findings
 
-### *The Effect of Major Depression and Outlook on Meaning of Life on PTSD*
+### [*The Effect of Major Depression and Outlook on Meaning of Life on PTSD*](https://cyoonucsd.github.io/Yoon,Carey-FinalPaper-VeteranPTSD.pdf)
 - Studied the relationship between Major Depression, beliefs about the meaning of life, and PTSD in veterans through the Veteran Affairs San Diego Healthcare System
 - Ran statistical analyses through Jamovi
 - Utilized the PHQ-9, MLQ, and PCL-S to assess the mental state of veteran participants
 
-### *Deontological vs Utilitarian Judgment & Gender*
+### [*Deontological vs Utilitarian Judgment & Gender*](https://cyoonucsd.github.io/DeontologicalvsUtilitarianJudgmentGender.pdf)
 - Studied a variation of the trolley problem through literature search
 - Ran statistical analyses through Jamovi
-- Presented a paper to the Department of Psychology at the University of California, San Diego with a poster
+- Presented a paper to the Department of Psychology at the University of California, San Diego with a [poster](https://cyoonucsd.github.io/DeontologicalUtilitarianPoster.jpg)
 
 ### *The Self-Referential Effect on Memory*
 - Studied the Self-Referential Effect through experimentation conducted on undergraduate students
