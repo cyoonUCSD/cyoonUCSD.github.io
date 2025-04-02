@@ -99,7 +99,7 @@
 - Helped students express emotional turmoil in a healthy and creative way
 
 ## Projects
-### *Alcohol Sensitivity & Alcohol Dehydrogenase Catalytic Activity in Fruit Flies*
+### [*Alcohol Sensitivity & Alcohol Dehydrogenase Catalytic Activity in Fruit Flies*](https://cyoonucsd.github.io/Yoon,Carey-AlcoholDehydrogenase.pdf)
 - Studied alcohol sensitivity in different strains of *Drosphila melanogaster*
 - Ran an *in vivo* Ethanol Mobility Behavior Assay and *in vitro* Alcohol Dehydrogenase Activity Assay
 - Wrote a lab report on the process and findings
