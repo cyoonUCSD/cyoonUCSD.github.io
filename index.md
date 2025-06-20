@@ -72,6 +72,8 @@
 - Published in 2019 International Conference on Computational Science and Computational Intelligence (CSCI)
 - NSF Award in Integrated Computational Entomology (NICE)
 
+### Student Researcher Volunteer | CHEAR Lab @ University of California, San Diego
+
 ## Volunteering History
 ### UGIA PSYC124 | Department of Psychology @ University of California, San Diego
 - Editing and revising documents, assignments, and exams
