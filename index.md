@@ -76,7 +76,7 @@
 ### Student Researcher Assistant | CHEAR Lab @ University of California, San Diego
 - Conducted research protocols with participants
 - Sensitive data entry
-- Certified for psychophysiological measurement, anthropomorphic measurement, and other.
+- Receiving training and certification with recording psychophysiology and anthropomorphic data, Mandated Reporter training, Biomedical Research basics training, HIPAA training, and Social/Behavioral Research training
 
 ## Volunteering History
 ### UGIA PSYC124 | Department of Psychology @ University of California, San Diego
