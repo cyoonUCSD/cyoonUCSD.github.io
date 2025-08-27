@@ -6,6 +6,7 @@
 - Event Planning & Administrative Communication
 - Proficient in English, Korean, and Spanish
 - Proficient in Java, Python, C++, C#,  Visual Basic, MATLAB, R, Jamovi, SPSS
+- Psychophysiological and Anthropomorphic Measurements
 
 ## Education
 - Martin Luther King High School 
@@ -72,7 +73,10 @@
 - Published in 2019 International Conference on Computational Science and Computational Intelligence (CSCI)
 - NSF Award in Integrated Computational Entomology (NICE)
 
-### Student Researcher Volunteer | CHEAR Lab @ University of California, San Diego
+### Student Researcher Assistant | CHEAR Lab @ University of California, San Diego
+- Conducted research protocols with participants
+- Sensitive data entry
+- Certified for psychophysiological measurement, anthropomorphic measurement, and other.
 
 ## Volunteering History
 ### UGIA PSYC124 | Department of Psychology @ University of California, San Diego
@@ -135,6 +139,16 @@
 - Helped organize a community project to create a video game over the course of one year
 - Advised a team of voice actors
 - Assisted in the creative writing of character events
+
+### *Chefoarc*
+- Worked with a partner for a weekend game jam
+- Wrote music using Musescore and Audacity
+- Created pixel graphics and sprites
+
+### *We Stay Hungry*
+- Worked with a group of four for a week-long game jam
+- Wrote music using Musescore and Audacity
+- Contributed to daily group meetings to determine game direction and assess progress 
  
 ### RPG Maker Workshop Series
 - Taught RPG Maker VX Ace to college students of all skill levels and majors
