@@ -15,6 +15,11 @@
 (Psychology B.S. with a Specialization in Clinical Psychology)
 (Academic Prerequisites for Medical School Completed)
 
+- (https://cyoonucsd.github.io/ResearchPracticesCertificate.pdf)[Child Abuse & Neglect Mandated Reporter Certification (CDSS Program)]
+- (https://cyoonucsd.github.io/ResearchPractices.pdf)[GCP Social and Behavioral Research Best Practices for Clinical Research (CITI Program & University of California, San Diego)]
+- (https://cyoonucsd.github.io/BiomedCertificate.pdf)[Biomedical Research Basic/Refresher Certification (CITI Program & University of California, San Diego)]
+- (https://cyoonucsd.github.io/HIPAACertificate.pdf)[Information Privacy/Security HIPAA Research Privacy Certification (CITI Program & University of California, San Diego)]
+
 ## Leadership Positions
 ### Vice President | Video Game Development Club @ UC San Diego
 - Wrote formal proposals for club events
