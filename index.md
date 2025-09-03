@@ -8,17 +8,17 @@
 - Proficient in Java, Python, C++, C#,  Visual Basic, MATLAB, R, Jamovi, SPSS
 - Psychophysiological and Anthropomorphic Measurements
 
-## Education
+## Education & Certification
 - Martin Luther King High School 
-(High School Diploma, 4.8 GPA) 
+(High School Diploma, 4.8 GPA) (2021)
 - University of California, San Diego 
 (Psychology B.S. with a Specialization in Clinical Psychology)
-(Academic Prerequisites for Medical School Completed)
-
-- [Child Abuse & Neglect Mandated Reporter Certification - CDSS Program](https://cyoonucsd.github.io/ResearchPracticesCertificate.pdf)
-- [GCP Social and Behavioral Research Best Practices for Clinical Research - CITI Program & University of California, San Diego](https://cyoonucsd.github.io/ResearchPractices.pdf)
-- [Biomedical Research Basic/Refresher Certification - CITI Program & University of California, San Diego](https://cyoonucsd.github.io/BiomedCertificate.pdf)
-- [Information Privacy/Security HIPAA Research Privacy Certification - CITI Program & University of California, San Diego](https://cyoonucsd.github.io/HIPAACertificate.pdf)
+(Academic Prerequisites for Medical School Completed) (2025)
+- Computer Programming - CTE (2018)
+- [Child Abuse & Neglect Mandated Reporter Certification - CDSS Program](https://cyoonucsd.github.io/ResearchPracticesCertificate.pdf) (2025)
+- [GCP Social and Behavioral Research Best Practices for Clinical Research - CITI Program & University of California, San Diego](https://cyoonucsd.github.io/ResearchPractices.pdf) (2025)
+- [Biomedical Research Basic/Refresher Certification - CITI Program & University of California, San Diego](https://cyoonucsd.github.io/BiomedCertificate.pdf) (2025)
+- [Information Privacy/Security HIPAA Research Privacy Certification - CITI Program & University of California, San Diego](https://cyoonucsd.github.io/HIPAACertificate.pdf) (2025)
 
 ## Leadership Positions
 ### Vice President | Video Game Development Club @ UC San Diego
