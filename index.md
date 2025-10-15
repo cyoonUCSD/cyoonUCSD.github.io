@@ -19,10 +19,8 @@
 - [GCP Social and Behavioral Research Best Practices for Clinical Research - CITI Program & University of California, San Diego](https://cyoonucsd.github.io/ResearchPractices.pdf) (2025)
 - [Biomedical Research Basic/Refresher Certification - CITI Program & University of California, San Diego](https://cyoonucsd.github.io/BiomedCertificate.pdf) (2025)
 - [Information Privacy/Security HIPAA Research Privacy Certification - CITI Program & University of California, San Diego](https://cyoonucsd.github.io/HIPAACertificate.pdf) (2025)
-- Life Support Academy
-(Basic Life Support - CPR & AED) (2025)
-- Dalrada Career Institute (in progress)
-(Certified Nurse Assistant Certification) (2025)
+- [Basic Life Support - Life Support Academy](https://cyoonucsd.github.io/BLS.pdf) (2025)
+- Certified Nurse Assistant Certification - Dalrada Career Institute (2025)
 
 ## Leadership Positions
 ### Vice President | Video Game Development Club @ UC San Diego
