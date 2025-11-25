@@ -20,7 +20,8 @@
 - [Biomedical Research Basic/Refresher Certification - CITI Program & University of California, San Diego](https://cyoonucsd.github.io/BiomedCertificate.pdf) (2025)
 - [Information Privacy/Security HIPAA Research Privacy Certification - CITI Program & University of California, San Diego](https://cyoonucsd.github.io/HIPAACertificate.pdf) (2025)
 - [Basic Life Support - Life Support Academy](https://cyoonucsd.github.io/BLS.pdf) (2025)
-- Certified Nurse Assistant Certification - Dalrada Career Institute (2025)
+- Certified Nurse Assistant Certification - Dalrada Career Institute, San Diego (2025)
+- Certified Rehabilitative Nursing Assistant Certification - Dalrada Career Institute, Chula Vista (2025)
 
 ## Leadership Positions
 ### Vice President | Video Game Development Club @ UC San Diego
