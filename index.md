@@ -1,13 +1,10 @@
 # Carey Yoon
 
 <details>
-<summary>Skills</summary>
-- Skilled Nursing Care
-- Research Paper Authoring
-- Group & Individual Instruction
-- Event Planning & Administrative Communication
-- Proficient in English, Korean, and Spanish
-- Proficient in Java, Python, C++, C#,  Visual Basic, MATLAB, R, Jamovi, SPSS
+<summary># Vice President | Video Game Development Club @ UC San Diego </summary>
+- Wrote formal proposals for club events
+- Created itemized lists and budgets for each event
+- Communicated across different levels of administration
 </details>
 
 ## Skills
