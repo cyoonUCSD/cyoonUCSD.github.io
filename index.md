@@ -25,11 +25,6 @@
 
 ## Leadership Positions
 
-### Restorative Nursing Assistant | Escondido Post Acute Rehab
-- Performed ROM, transfer, and ambulation exercises with residents
-- Collaborated with interdisciplinary departments for changing and executing care plans for residents
-- Documented changes on official medical paperwork
-
 ### Vice President | Video Game Development Club @ UC San Diego
 - Wrote formal proposals for club events
 - Created itemized lists and budgets for each event
@@ -61,6 +56,11 @@
 - Created and managed a budget, timeline, and workflow manager
 
 ## Work History
+### Restorative Nursing Assistant | Escondido Post Acute Rehab
+- Performed ROM, transfer, and ambulation exercises with residents
+- Collaborated with interdisciplinary departments for changing and executing care plans for residents
+- Documented changes on official medical paperwork
+
 ### SYN100 SYNematic Films Tutor | Seventh College @ University of California, San Diego
 - Editing, revising, and giving constructive feedback on student work
 - Mediating quality of student discussion, group work, and academic integrity
