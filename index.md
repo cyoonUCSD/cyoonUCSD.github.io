@@ -24,6 +24,12 @@
 - Certified Rehabilitative Nursing Assistant Certification - Dalrada Career Institute, Chula Vista (2025)
 
 ## Leadership Positions
+
+### Restorative Nursing Assistant | Escondido Post Acute Rehab
+- Performed ROM, transfer, and ambulation exercises with residents
+- Collaborated with interdisciplinary departments for changing and executing care plans for residents
+- Documented changes on official medical paperwork
+
 ### Vice President | Video Game Development Club @ UC San Diego
 - Wrote formal proposals for club events
 - Created itemized lists and budgets for each event
