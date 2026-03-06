@@ -120,69 +120,68 @@
 
 ## Projects
 ### [*Alcohol Sensitivity & Alcohol Dehydrogenase Catalytic Activity in Fruit Flies*](https://cyoonucsd.github.io/Yoon,Carey-AlcoholDehydrogenase.pdf)
-- Studied alcohol sensitivity in different strains of *Drosphila melanogaster*
+*A study on alcohol sensitivity in different strains of Drosphila melanogaster*
 - Ran an *in vivo* Ethanol Mobility Behavior Assay and *in vitro* Alcohol Dehydrogenase Activity Assay
-- Wrote a lab report on the process and findings
 
 ### [*The Effect of Major Depression and Outlook on Meaning of Life on PTSD*](https://cyoonucsd.github.io/Yoon,Carey-FinalPaper-VeteranPTSD.pdf)
-- Studied the relationship between Major Depression, beliefs about the meaning of life, and PTSD in veterans through the Veteran Affairs San Diego Healthcare System
+*A study on the relationship between Major Depression, core beliefs, and PTSD in veterans through the Veteran Affairs San Diego Healthcare System*
 - Ran statistical analyses through Jamovi
 - Utilized the PHQ-9, MLQ, and PCL-S to assess the mental state of veteran participants
 
 ### [*Deontological vs Utilitarian Judgment & Gender*](https://cyoonucsd.github.io/DeontologicalvsUtilitarianJudgmentGender.pdf)
-- Studied a variation of the trolley problem through literature search
+*A literature review on the trolley problem*
 - Ran statistical analyses through Jamovi
 - Presented a paper to the Department of Psychology at the University of California, San Diego with a [poster](https://cyoonucsd.github.io/DeontologicalUtilitarianPoster.jpg)
 
 ### *The Self-Referential Effect on Memory*
-- Studied the Self-Referential Effect through experimentation conducted on undergraduate students
-- Conducted a literature search on the Self-Referential Effect and Other-Referential conditions
-- Ran statistical analyses using R for a paper
+*A study on the Self-Referential Effect*
+- Conducted experimentation on undergraduate students
+- Ran statistical analyses using R
 
 ### *Causes of Homelessness in San Diego*
-- Filmed and edited an informational documentary video on the homelessness crisis in San Diego and its connection to the climate crisis and COVID-19
+*A film on the homelessness crisis in San Diego and its connection to the climate crisis and COVID-19*
 - Interviewed homeless shelter administration, religious organizations, and the homeless
 - Presented to the Seventh College Synthesis Program
 
 ### *Addiction & Probability of Relapse*
-- Filmed and edited an informational documentary video with interviews
+*A film on substance abuse in college students*
 - Researched accessibility in video education in clinical psychology education
-- Worked with subjects with experience struggling with substance abuse
+- Interviewed and filmed subjects with experience struggling with substance abuse
 
 ### *The Library*
+*A community video game project about cult mindset*
 - Helped organize a community project to create a video game over the course of one year
-- Advised a team of voice actors
-- Assisted in the creative writing of character events
+- Advised a team of voice actors and assisted in the creative writing of character events
 
 ### *Chefoarc*
-- Worked with a partner for a weekend game jam
-- Wrote music using Musescore and Audacity
-- Created pixel graphics and sprites
+*A video game about time-management and pizza*
+- Worked with one partner for a weekend game jam
+- Wrote music using Musescore/Audacity and created pixel graphics and sprites
 
 ### *We Stay Hungry*
+*A video game about strategy and pastries*
 - Worked with a group of four for a week-long game jam
-- Wrote music using Musescore and Audacity
-- Contributed to daily group meetings to determine game direction and assess progress 
- 
+- Wrote music using Musescore/Audacity
+   
 ### RPG Maker Workshop Series
-- Taught RPG Maker VX Ace to college students of all skill levels and majors
-- Created a sample game in 8 hours
+*An 8 hour video series about RPG Maker VX Ace*
+- Designed to be accessible for all college students of all skill levels and majors
 - Worked with students on level design, character design, and creative writing in video games
 
 ### *A Computational System to Support Fully Automated Mark-Recapture Studies of Ants*
+*A selective ant-capturing device*
 - Published in CSCI Las Vegas with the help of Dr. Eamonn Keogh's lab @ University of Riverside, California
-- Coded a program in MATLAB to trigger an ant capturing device when detecting a color-marked *Linepithema humile*
-- Collected *Linepithema humile*, ran experiments in a terrarium built with Dr. Eamonn Keogh, and took photos for documentation
+- Collected *Linepithema humile*, ran experiments in a terrarium built with Dr. Eamonn Keogh, coded the identification program in MATLAB, and took photos for documentation
 
 ### *The Identification of Potentially Malarial Anopheles Mosquitoes Using Machine Learning*
+*A selective malarial mosquito capturing device*
 - Completed with the help of Dr. Eamonn Keogh's lab @ University of Riverside, California
 - Presented findings at the University of Califoria, Riverside and University of Southern California
-- Coded a program in MATLAB to statistically analyze patterns in malarial mosquito wingbeat frequencies and built a physical selective mosquito capturing device with Dr. Eamonn Keogh
+- Coded a program in MATLAB to statistically analyze patterns in malarial mosquito wingbeat frequencies and built a selective mosquito capturing device with Dr. Eamonn Keogh
 
 ### *Music Measure Theory*
-- Explored the relationships between the physics of sound, music, and the psychological perception of dissonance and consonance
-- Presented findings to multiple professors from the University of California, Riverside
-- Created a poster and paper to supplement information presentation
+*A study on the relationships between the physics of sound, music, and the psychological perception of dissonance and consonance*
+- Presented findings to the University of California, Riverside
 
 ## Accomplishments
 - Published "A Computational System to Support Fully Automated Mark-Recapture Studies of Ants" at 2019 International Conference on Computational Science and Computational Intelligence (CSCI)
