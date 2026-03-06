@@ -1,12 +1,5 @@
 # Carey Yoon
 
-# <details>
-<summary> Vice President | Video Game Development Club @ UC San Diego </summary>
-- Wrote formal proposals for club events
-- Created itemized lists and budgets for each event
-- Communicated across different levels of administration
-</details>
-
 ## Skills
 - Skilled Nursing Care
 - Research Paper Authoring
