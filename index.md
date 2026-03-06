@@ -1,5 +1,15 @@
 # Carey Yoon
 
+<details>
+<summary>Skills</summary>
+- Skilled Nursing Care
+- Research Paper Authoring
+- Group & Individual Instruction
+- Event Planning & Administrative Communication
+- Proficient in English, Korean, and Spanish
+- Proficient in Java, Python, C++, C#,  Visual Basic, MATLAB, R, Jamovi, SPSS
+</details>
+
 ## Skills
 - Skilled Nursing Care
 - Research Paper Authoring
